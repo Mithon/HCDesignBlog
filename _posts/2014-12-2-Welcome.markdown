@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Why Github Pages?
+date:   2014-11-27 21:02:46
+categories: meta
+---
+
+Okay so I think my blog location has made more than five moves as of right now. Am I going to important stuff I've done before? nope. I love the feeling of starting fresh.
+
+# Have I finally settled?
+
+I think so. This seems like it is the best option in terms of money and flexibility, but I'll do a quick breakdown here.
+
+First off, let me make it clear that **I love Github pages**.
+
+If you don't know what github pages are by now, you should go take a look. I'll break it down anyways. It is pretty much free hosting on Github's super nice servers. You don't get the flexibility and freedom of a physical server of your own or a digital ocean droplet obviously, but it is perfect for personal blogs and sites.
+
+There are things about blogging on here that aren't that great, for instance your discoverability is pretty much null, which I don't mind much. Compared to the SEO capabilities of other sites, this comes with nothing. But that is one of the best parts about it, you are given the freedom and the barebones page building and from there you do everything yourself. It's a great way to have full control of your blogging site. Also its hosted on github so people can learn from how I've done things if they are curious.
+
