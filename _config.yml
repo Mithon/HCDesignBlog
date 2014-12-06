@@ -1,6 +1,6 @@
 # Site settings
-title: HE lllllllllllllllloooo
-email: your-email@domain.com
+title: Interative Integrity
+email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -8,8 +8,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/HCDesignBlog" # the subpath of your site, e.g. /blog/
 url: "http://huntercaron.com/" # the base hostname & protocol for your site
 
-twitter_username: Hunter
-github_username:  Hunter
+twitter_username: hunterhcaron
+github_username:  Mithon
 
 # Build settings
 markdown: kramdown

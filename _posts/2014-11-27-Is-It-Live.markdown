@@ -5,4 +5,8 @@ date:   2014-11-27 21:02:46
 categories: jekyll update
 ---
 
-okay so this is a test.
+Whoa okay so this is finally working?
+
+I think I finally understand github project pages, and it makes so much more sense.
+
+This is awesome.
