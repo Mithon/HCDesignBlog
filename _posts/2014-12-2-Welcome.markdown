@@ -7,8 +7,8 @@ categories: meta
 
 Okay so I think my blog location has made more than five moves as of right now. Am I going to important stuff I've done before? nope. I love the feeling of starting fresh.
 
-# Have I finally settled?
 
+# Have I finally settled?
 I think so. This seems like it is the best option in terms of money and flexibility, but I'll do a quick breakdown here.
 
 First off, let me make it clear that **I love Github pages**.
