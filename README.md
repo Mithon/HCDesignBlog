@@ -1,4 +1,4 @@
 HCDesignBlog
 ============
 
-Blog companion page
+Somewhere to yell at the screen

@@ -17,3 +17,10 @@ If you don't know what github pages are by now, you should go take a look. I'll 
 
 There are things about blogging on here that aren't that great, for instance your discoverability is pretty much null, which I don't mind much. Compared to the SEO capabilities of other sites, this comes with nothing. But that is one of the best parts about it, you are given the freedom and the barebones page building and from there you do everything yourself. It's a great way to have full control of your blogging site. Also its hosted on github so people can learn from how I've done things if they are curious.
 
+Some people may be more inclined to start their tumblr up due to the ease of use and the community around it, but that is not nearly as fun to mess around with. I may try my hand at tumblr theming at one point, but there is not nearly as much freedom with that as there is with jekyll.
+
+If you have been stalking me you know that I used to have my blog on wordpress, and the great part about that was that they already had everything figured out for you end to end, which was incredibly convinient, but jekyll does that for as well, its just a much more "barebones" everything.
+
+Jekyll on Github Pages is the not the way to go if you want to track who reads your blog and get internet famous. If really want to dig and and have control this is the way to go.
+
+Also its blazing fast because its just static html, no crazy js going on in the client.
