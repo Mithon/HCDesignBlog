@@ -4,8 +4,10 @@ title: About the Blog
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+If you are here to learn about me and see what I can do, you have drifted too far! That info is back on my main page, [huntercaron.com](http://huntercaron.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This is my blog where I will write about anything from me wondering, new things in the design, and maybe even a tutorial if I am feeling abitious. It is extremely casual so don't be expecting to much! It's made to have a maximum idea per minute rate.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you are okay with all this, then dig in! I hope you enjoy yourself.
+
+-Hunter
