@@ -7,7 +7,7 @@ categories: meta web components polymer
 
 We all know that the web moves fast, very fast. Keeping up with that is quite a pain, and making the right time investment is very important, especially when you only have a limited amount of time on your hands. This piece is to help me choose where to invest my time, and guide you if you are in a similar boat.
 
-The choice that I have to make right now is if I want to jump shit on newish technologies, or really work on getting my js and css past an adept level. With cool stuff like Foundation for Apps, I'm extremely tempted to fully jump into that and dedicate all my extra time to it, but that is a large time risk. With all the new web tech from Angular to Batman, there is very little chance that the one I choose will stick.
+The choice that I have to make right now is if I want to jump ship on newish technologies, or really work on getting my js and css past an adept level. With cool stuff like Foundation for Apps, I'm extremely tempted to fully jump into that and dedicate all my extra time to it, but that is a large time risk. With all the new web tech from Angular to Batman, there is very little chance that the one I choose will stick.
 
 **Enter Polymer**, my hopefully saviour. I've listened and watched a lot of things by people like Rob Dawson and Eric Bidelman, and they seem set that web components are sticking around. Why should I trust them? because they are not alone, web components are growing by the day, in quantity and popularity. 
 
