@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Trendy, Mastery or Screwdriver
+date:   2014-12-7 21:02:46
+categories: meta, web, components, polymer
+---
+
+We all know that the web moves fast, very fast. Keeping up with that is quite a pain, and making the right time investment is very important, especially when you only have a limited amount of time on your hands. This piece is to help me choose where to invest my time, and guide you if you are in a similar boat.
+
+The choice that I have to make right now is if I want to jump shit on newish technologies, or really work on getting my js and css past an adept level. With cool stuff like Foundation for Apps, I'm extremely tempted to fully jump into that and dedicate all my extra time to it, but that is a large time risk. With all the new web tech from Angular to Batman, there is very little chance that the one I choose will stick.
+
+**Enter Polymer**, my hopefully saviour. I've listened and watched a lot of things by people like Rob Dawson and Eric Bidelman, and they seem set that web components are sticking around. Why should I trust them? because they are not alone, web components are growing by the day, in quantity and popularity. 
+
+What does this mean for my choice? Well, the great thing about web components is that they use js, CSS, and HTML. These languages probably aren't going anywhere anytime soon. Yes they will change but a time investment into mastering them has a much higher chance of paying out than mastering angular (which is pretty awesome however). Polymer specifically is a polyfill that makes it so most mainstream browsers support web components, it also adds great stuff like data binding. The stuff that Polymer adds on top is stuff that you would want to use anyways and are technologies that may change, but the ideas will stick around.
+
+Honestly when I started writing this I didn't know what my choice was going to be, which is why I wanted to write it down and weigh the pros and cons. But now I have decided that its a better idea to really get the basics down, to a point of extreme comfort. This doesn't mean I will ignore angular, but rather put it lower on the priority list. Having a stronger understanding of js will benefit later in understanding new technologies that come around. It's always a good idea to know how to use a screwdriver before you buy a powerdrill, and right now I think its a good idea to really get to know the screwdriver.

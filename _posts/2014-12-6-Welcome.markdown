@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why Github Pages?
-date:   2014-11-27 21:02:46
+date:   2014-12-6 21:02:46
 categories: meta
 ---
 
