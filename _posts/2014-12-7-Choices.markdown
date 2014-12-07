@@ -2,7 +2,7 @@
 layout: post
 title:  Trendy, Mastery or Screwdriver
 date:   2014-12-7 21:02:46
-categories: meta, web, components, polymer
+categories: meta web components polymer
 ---
 
 We all know that the web moves fast, very fast. Keeping up with that is quite a pain, and making the right time investment is very important, especially when you only have a limited amount of time on your hands. This piece is to help me choose where to invest my time, and guide you if you are in a similar boat.
