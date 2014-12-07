@@ -4,8 +4,8 @@
 .site-header {
     border-top: 1px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
+    min-height: 150px;
+    background-color: rgb(0, 200, 208);
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -197,7 +197,6 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
-    height: 100px;
 }
 
 .post-title {
